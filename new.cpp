@@ -1,8 +1,13 @@
 #include<iostream>
 using namespace std;
 
+
 int main()
-{
-  cout<<"My program";
+{ 
+  fun()
+  {
+    cout<<"M having fun";
+  }
+  cout<<"\nMy program";
   return 0;
 }
